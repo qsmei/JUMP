@@ -1,5 +1,5 @@
 # JUMP
-A Julia Package for genomic selection(prediction) with BLUP and Bayesian methods! In the current stage, i just use this to achieve my analysis. Some functions are under releasing, speed and memory performance would be the next step target!
+A Julia Package (binary version) for genomic selection(prediction) with BLUP and Bayesian methods! In the current stage, i just use this to achieve my analysis. Some functions are under releasing, speed and memory performance would be the next step target! 
 Here is the simple usage of JUMP:
 
 ``` {.r}
